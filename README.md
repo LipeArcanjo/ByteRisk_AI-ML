@@ -5,6 +5,11 @@
 **ByteRisk** é uma solução desenvolvida para a **OdontoPrev**, com o objetivo de reduzir custos com sinistros odontológicos por meio de intervenções preventivas e automáticas, usando técnicas de machine learning. Classificando beneficiários em rankings de risco (S a F), o ByteRisk automatiza o envio de mensagens de conscientização, convites para consultas preventivas e agendamentos de exames detalhados, ajudando a prevenir problemas de saúde bucal.
 
 ---
+## 🎥 Apresentação em Vídeo
+
+[Assista à apresentação do ByteRisk no YouTube](https://youtu.be/Z0gSnLEw6cA)
+
+---
 
 ## 🎯 Objetivo Principal
 
